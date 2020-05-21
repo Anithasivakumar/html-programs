@@ -1,0 +1,17 @@
+<html>
+<head>
+<title> tce info </title>
+<h2 style="background-color:lightblue;"><center>TAMILNADU COLLEGE OF ENGINEERING </center> </h2>
+<h2 style="background-color:lightblue;"><center>KARUMATHAMPATTI,COIMBATORE</center> </h2>
+<h3 style="background-color:royalblue;"><center>FEEDBACK FORM</center> </h3>
+<script type="text/javascript">
+alert("RATE US BY YOUR COMMENTS")
+</script>
+</head>
+<body>
+<h3>!!! WELCOME  TO TCE !!!</h3>
+<h2><center> Enter the feedback here <center></h2>
+<center><textarea rows="15" cols="100"></textarea></center>
+<a href="https://www.tnce.in" input type=button"> click here </a>
+<center><input type="button" value ="SUBMIT"/></center>
+</html>
